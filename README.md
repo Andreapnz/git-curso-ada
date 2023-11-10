@@ -1,5 +1,3 @@
 # Curso Digital: Git
 
-# Gravando mudanças no repositório
-
-# Testando
+## Salvando modificações no Git
